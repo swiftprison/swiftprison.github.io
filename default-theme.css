@@ -1,0 +1,10 @@
+pre {
+    background-color: black;
+    color: green;
+    font-family: courier,;
+    font-size: 10px;
+    line-height: 1.5;
+    padding: 0px;
+    border-radius: 5px;
+    overflow-x: auto;
+}

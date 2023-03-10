@@ -1,0 +1,23 @@
+body {
+  background-image: url("img.gif");
+  bqcground-repeat: no-repeat;
+  background-size: 10%;
+  font-family: consolas, sans-serif;
+  text-align: none;
+  text-transform: none;
+  text-decoration: none;
+  font-size: 120%;
+  color: white;
+  background-color: #ffe0b2;
+}
+
+  background-color: #ffe0b2;
+  background-transform: 100%;
+
+  color: yellow;
+}
+
+div {
+  background-color: #ffe0b2;
+
+}
